@@ -16,6 +16,6 @@ Working on safeness<br>
 ![](https://github-contributor-stats.vercel.app/api?username=pertinentes&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pertinentes&icon=5&color=2)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=pertinentes&abbreviated=true&color=blueviolet&style=for-the-badge&abbreviated=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
