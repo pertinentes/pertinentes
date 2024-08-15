@@ -3,7 +3,7 @@
 <p align="center">Beach volley lover</p>
 
 <div style="text-align: center;">
-    <img src="https://komarev.com/ghpvc/?username=pertinentes&abbreviated=true&color=orange&style=for-the-badge" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=pertinentes&abbreviated=true&color=orange&style=for-thé-badge&abbreviated=true" alt="profile views"/>
 </div>
 
 # 📊 GitHub Stats:
